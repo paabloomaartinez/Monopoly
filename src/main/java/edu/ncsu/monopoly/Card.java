@@ -1,3 +1,5 @@
+//Subido a GitHub
+
 package edu.ncsu.monopoly;
 //updated 20222
 public abstract class Card {
